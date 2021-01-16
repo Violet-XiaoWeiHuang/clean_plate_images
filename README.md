@@ -1,0 +1,1 @@
+# clean_plate_images
